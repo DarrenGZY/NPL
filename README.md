@@ -1,4 +1,5 @@
 ## NPL
+<img  src="https://ci.appveyor.com/api/projects/status/github/DarrenGZY/NPL?branch=master&svg=true">
 
 NPL/Lua Language Service and debugger (attach to process)
 
